@@ -1,0 +1,6 @@
+Employees exceeding the allowed number of internet hours per week
+Names               Total hours
+James               30
+Jacky               37
+Gladys              38
+Susan               44

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1729544122 source:c:\users\karli\onedrive\documents\nwu\1st year\cmpg 121\exam prep\assignment redos\prac4\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<iomanip>
+

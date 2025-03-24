@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1729605521 source:c:\users\karli\onedrive\documents\nwu\1st year\cmpg 121\exam prep\assignment redos\prac7\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<iomanip>
+
