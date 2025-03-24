@@ -1,0 +1,333 @@
+Student ID,Course,Grade
+23456789,Programming,73
+23456789,Systems Analysis,61
+23456789,User Interface Design,45
+23456789,Databases,36
+23456790,Programming,39
+23456790,Systems Analysis,97
+23456790,User Interface Design,82
+23456790,Databases,88
+23456791,Programming,40
+23456791,Systems Analysis,43
+23456791,User Interface Design,80
+23456791,Databases,59
+23456792,Programming,76
+23456792,Systems Analysis,68
+23456792,User Interface Design,39
+23456792,Databases,12
+23456793,Programming,52
+23456793,Systems Analysis,31
+23456793,User Interface Design,19
+23456793,Databases,80
+23456794,Programming,4
+23456794,Systems Analysis,57
+23456794,User Interface Design,32
+23456794,Databases,78
+23456795,Programming,5
+23456795,Systems Analysis,82
+23456795,User Interface Design,16
+23456795,Databases,67
+23456796,Programming,90
+23456796,Systems Analysis,38
+23456796,User Interface Design,80
+23456796,Databases,63
+23456797,Programming,91
+23456797,Systems Analysis,84
+23456797,User Interface Design,66
+23456797,Databases,69
+23456798,Programming,30
+23456798,Systems Analysis,43
+23456798,User Interface Design,42
+23456798,Databases,34
+23456799,Programming,86
+23456799,Systems Analysis,17
+23456799,User Interface Design,8
+23456799,Databases,67
+23456800,Programming,15
+23456800,Systems Analysis,5
+23456800,User Interface Design,64
+23456800,Databases,34
+23456801,Programming,86
+23456801,Systems Analysis,34
+23456801,User Interface Design,53
+23456801,Databases,62
+23456802,Programming,71
+23456802,Systems Analysis,55
+23456802,User Interface Design,52
+23456802,Databases,7
+23456803,Programming,33
+23456803,Systems Analysis,56
+23456803,User Interface Design,29
+23456803,Databases,15
+23456804,Programming,81
+23456804,Systems Analysis,1
+23456804,User Interface Design,88
+23456804,Databases,97
+23456805,Programming,72
+23456805,Systems Analysis,82
+23456805,User Interface Design,2
+23456805,Databases,43
+23456806,Programming,67
+23456806,Systems Analysis,13
+23456806,User Interface Design,80
+23456806,Databases,88
+23456807,Programming,49
+23456807,Systems Analysis,90
+23456807,User Interface Design,8
+23456807,Databases,44
+23456808,Programming,34
+23456808,Systems Analysis,89
+23456808,User Interface Design,52
+23456808,Databases,68
+23456809,Programming,53
+23456809,Systems Analysis,35
+23456809,User Interface Design,66
+23456809,Databases,30
+23456810,Programming,42
+23456810,Systems Analysis,76
+23456810,User Interface Design,27
+23456810,Databases,22
+23456811,Programming,62
+23456811,Systems Analysis,7
+23456811,User Interface Design,12
+23456811,Databases,88
+23456812,Programming,28
+23456812,Systems Analysis,7
+23456812,User Interface Design,95
+23456812,Databases,11
+23456813,Programming,2
+23456813,Systems Analysis,90
+23456813,User Interface Design,82
+23456813,Databases,91
+23456814,Programming,6
+23456814,Systems Analysis,52
+23456814,User Interface Design,59
+23456814,Databases,84
+23456815,Programming,89
+23456815,Systems Analysis,32
+23456815,User Interface Design,49
+23456815,Databases,8
+23456816,Programming,86
+23456816,Systems Analysis,34
+23456816,User Interface Design,57
+23456816,Databases,81
+23456817,Programming,40
+23456817,Systems Analysis,50
+23456817,User Interface Design,83
+23456817,Databases,20
+23456818,Programming,3
+23456818,Systems Analysis,12
+23456818,User Interface Design,69
+23456818,Databases,40
+23456819,Programming,38
+23456819,Systems Analysis,89
+23456819,User Interface Design,14
+23456819,Databases,75
+23456820,Programming,15
+23456820,Systems Analysis,31
+23456820,User Interface Design,80
+23456820,Databases,14
+23456821,Programming,47
+23456821,Systems Analysis,26
+23456821,User Interface Design,75
+23456821,Databases,33
+23456822,Programming,49
+23456822,Systems Analysis,21
+23456822,User Interface Design,33
+23456822,Databases,77
+23456823,Programming,20
+23456823,Systems Analysis,57
+23456823,User Interface Design,94
+23456823,Databases,17
+23456824,Programming,67
+23456824,Systems Analysis,12
+23456824,User Interface Design,96
+23456824,Databases,14
+23456825,Programming,62
+23456825,Systems Analysis,40
+23456825,User Interface Design,25
+23456825,Databases,62
+23456826,Programming,43
+23456826,Systems Analysis,98
+23456826,User Interface Design,97
+23456826,Databases,57
+23456827,Programming,70
+23456827,Systems Analysis,59
+23456827,User Interface Design,36
+23456827,Databases,60
+23456828,Programming,27
+23456828,Systems Analysis,94
+23456828,User Interface Design,47
+23456828,Databases,65
+23456829,Programming,37
+23456829,Systems Analysis,3
+23456829,User Interface Design,86
+23456829,Databases,77
+23456830,Programming,3
+23456830,Systems Analysis,5
+23456830,User Interface Design,39
+23456830,Databases,40
+23456831,Programming,15
+23456831,Systems Analysis,88
+23456831,User Interface Design,36
+23456831,Databases,93
+23456832,Programming,44
+23456832,Systems Analysis,90
+23456832,User Interface Design,29
+23456832,Databases,12
+23456833,Programming,39
+23456833,Systems Analysis,14
+23456833,User Interface Design,68
+23456833,Databases,36
+23456834,Programming,89
+23456834,Systems Analysis,51
+23456834,User Interface Design,53
+23456834,Databases,21
+23456835,Programming,49
+23456835,Systems Analysis,5
+23456835,User Interface Design,44
+23456835,Databases,51
+23456836,Programming,10
+23456836,Systems Analysis,56
+23456836,User Interface Design,31
+23456836,Databases,99
+23456837,Programming,74
+23456837,Systems Analysis,11
+23456837,User Interface Design,3
+23456837,Databases,87
+23456838,Programming,72
+23456838,Systems Analysis,64
+23456838,User Interface Design,2
+23456838,Databases,23
+23456839,Programming,88
+23456839,Systems Analysis,89
+23456839,User Interface Design,41
+23456839,Databases,75
+23456840,Programming,57
+23456840,Systems Analysis,44
+23456840,User Interface Design,99
+23456840,Databases,68
+23456841,Programming,50
+23456841,Systems Analysis,40
+23456841,User Interface Design,38
+23456841,Databases,23
+23456842,Programming,13
+23456842,Systems Analysis,25
+23456842,User Interface Design,11
+23456842,Databases,68
+23456843,Programming,80
+23456843,Systems Analysis,91
+23456843,User Interface Design,66
+23456843,Databases,16
+23456844,Programming,19
+23456844,Systems Analysis,69
+23456844,User Interface Design,5
+23456844,Databases,37
+23456845,Programming,84
+23456845,Systems Analysis,99
+23456845,User Interface Design,44
+23456845,Databases,49
+23456846,Programming,12
+23456846,Systems Analysis,41
+23456846,User Interface Design,29
+23456846,Databases,45
+23456847,Programming,2
+23456847,Systems Analysis,74
+23456847,User Interface Design,38
+23456847,Databases,3
+23456848,Programming,21
+23456848,Systems Analysis,16
+23456848,User Interface Design,10
+23456848,Databases,97
+23456849,Programming,80
+23456849,Systems Analysis,45
+23456849,User Interface Design,62
+23456849,Databases,25
+23456850,Programming,75
+23456850,Systems Analysis,23
+23456850,User Interface Design,69
+23456850,Databases,35
+23456851,Programming,94
+23456851,Systems Analysis,52
+23456851,User Interface Design,15
+23456851,Databases,2
+23456852,Programming,5
+23456852,Systems Analysis,16
+23456852,User Interface Design,27
+23456852,Databases,43
+23456853,Programming,50
+23456853,Systems Analysis,93
+23456853,User Interface Design,13
+23456853,Databases,8
+23456854,Programming,50
+23456854,Systems Analysis,83
+23456854,User Interface Design,10
+23456854,Databases,95
+23456855,Programming,30
+23456855,Systems Analysis,70
+23456855,User Interface Design,67
+23456855,Databases,19
+23456856,Programming,81
+23456856,Systems Analysis,89
+23456856,User Interface Design,80
+23456856,Databases,56
+23456857,Programming,96
+23456857,Systems Analysis,45
+23456857,User Interface Design,87
+23456857,Databases,62
+23456858,Programming,82
+23456858,Systems Analysis,93
+23456858,User Interface Design,47
+23456858,Databases,22
+23456859,Programming,44
+23456859,Systems Analysis,17
+23456859,User Interface Design,70
+23456859,Databases,95
+23456860,Programming,92
+23456860,Systems Analysis,4
+23456860,User Interface Design,93
+23456860,Databases,6
+23456861,Programming,50
+23456861,Systems Analysis,52
+23456861,User Interface Design,32
+23456861,Databases,56
+23456862,Programming,14
+23456862,Systems Analysis,89
+23456862,User Interface Design,15
+23456862,Databases,38
+23456863,Programming,51
+23456863,Systems Analysis,69
+23456863,User Interface Design,44
+23456863,Databases,33
+23456864,Programming,5
+23456864,Systems Analysis,16
+23456864,User Interface Design,8
+23456864,Databases,15
+23456865,Programming,69
+23456865,Systems Analysis,8
+23456865,User Interface Design,41
+23456865,Databases,32
+23456866,Programming,24
+23456866,Systems Analysis,83
+23456866,User Interface Design,4
+23456866,Databases,41
+23456867,Programming,20
+23456867,Systems Analysis,13
+23456867,User Interface Design,63
+23456867,Databases,98
+23456868,Programming,7
+23456868,Systems Analysis,79
+23456868,User Interface Design,37
+23456868,Databases,62
+23456869,Programming,56
+23456869,Systems Analysis,13
+23456869,User Interface Design,92
+23456869,Databases,12
+23456870,Programming,1
+23456870,Systems Analysis,47
+23456870,User Interface Design,9
+23456870,Databases,55
+23456871,Programming,41
+23456871,Systems Analysis,90
+23456871,User Interface Design,39
+23456871,Databases,33

@@ -1,0 +1,74 @@
+#STRING LITERALS
+
+#basic output
+print('Hello World')
+print('\n')     #Newline for formatting
+
+#Quotation variations
+print("Hello World")
+print('Hello World')
+print('\n')     #Newline for formatting
+
+#Double quote marks for string literals with apostophes
+print("I'm here")
+print('\n')     #Newline for formatting
+
+#Single quote a string literal that contains double quotes
+print('You need to read "Hamlet" by tomorrow')
+print('\n')     #Newline for formatting
+
+#Triple single or double quotes to contain anything in a strig literal
+print('''I'm reading "Hamlet" tonight''')
+print("""I'm reading "Hamlet" tonight""")
+print('\n')     #Newline for formatting
+
+#Triple quotes for multiline strings
+print("""One
+Two
+Three""")
+print('''Four
+Five
+Six''')
+
+#Comment will not be seen outside of code
+
+
+#VARIABLES p40/56
+#!Cannot use a variable until it has a value
+ 
+#Assignment statement to create variable
+age = 25        #Written in form variable = Expression(value) -> Variable appears on left side of =
+
+#Use print function to display variable, don't use quotes
+print(age)
+
+#Naming variables
+day_of_week = 'Monday'  #!Cannot use a keyword
+                        #!Cannot contain spaces
+                        #!First character must be A-Z, a-z, or _
+                        #!After first letter you may also use numbers 0-9
+                        #!Case sensitive
+                        #!Name must show purpose
+                        #!lowercase with underscores to seperate words
+print('\n')     #Newline for formatting
+
+#Display multiple items with print
+    #using variable
+room = 600  
+print('I am staying in room', room)     #Python automatically inserts a space
+    #Using 2 string literals(Why though?)
+print('My name is', 'Peter')
+print('\n')     #Newline for formatting
+
+#Variable reassignment
+dollars = 66.5
+print(dollars)
+    #Id prefre this variable refernce a different value
+dollars = 100
+print(dollars)
+
+
+
+
+
+
